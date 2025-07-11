@@ -1,43 +1,30 @@
-# 🤖 ROBO Landing Page
 
-Welcome to **ROBO**, a futuristic 3D landing page designed to inspire and engage. This project showcases a fully interactive Spline 3D robot integrated into a modern, animated, and responsive web layout.
+<a href="https://www.youtube.com/watch?v=oskiEydAaok&list=PL67b5wgxuUtAWuQscGa6pnBD6SFv92W5W" target="_blank">
+  <img src="/thumbnail.png" alt="Thumbnail"/>
+</a>
+
 
 ---
+## Description:
+## Want to build a modern, interactive 3D website using HTML, CSS, and Spline? In this step-by-step tutorial, I'll show you how to integrate a 3D model into your website for a sleek, immersive experience! 🌐✨
 
-## ✨ Features
+## 🔥 What You’ll Learn:
+## ✅ How to create and customize 3D models in Spline
+## ✅ How to embed 3D models in a website using HTML & CSS
+## ✅ Adding smooth animations & interactivity
+## ✅ Creating a responsive and modern 3D landing page
+## ✅ Best practices for performance optimization
 
-- 🚀 **Spline 3D Integration**  
-  An immersive, interactive robot model powered by [Spline](https://spline.design/).
+## This tutorial is perfect for beginners and advanced developers looking to add 3D effects to their web projects! 🎨💡
 
-- 🎨 **Modern Aesthetic**  
-  Smooth gradient backgrounds, glow effects, and sleek blur overlays.
+## 💻 Tools & Technologies:
 
-- 💡 **Animations Everywhere**  
-  Section fade-ins, zooms, and motion powered by [AOS (Animate on Scroll)](https://michalsnik.github.io/aos/).
+## -HTML, CSS
+## -Spline (3D Design & Animation)
 
-- 💻 **Fully Responsive**  
-  Adapts beautifully to all screen sizes, from desktop to mobile.
-
-- ⚡ **Smooth Interactions**  
-  Hover effects and animated call-to-action buttons for a polished feel.
 
 ---
-
-## 🌐 Live Demo
-
-> [🔗 View Live Demo](https://splinerobo3d.netlify.app/)
-
----
-
-## 💼 Tech Stack
-
-- **HTML5**
-- **CSS3** (custom animations & media queries)
-- **JavaScript (ES6)**
-- **[Spline Viewer](https://spline.design/)**
-- **AOS Library for scroll animations**
-
----
-
-
-
+## Watch the full tutorial on YouTub
+<a href="https://www.youtube.com/watch?v=oskiEydAaok&list=PL67b5wgxuUtAWuQscGa6pnBD6SFv92W5W">
+  <img src="/youtube.png" alt="youtube"/>
+</a>
